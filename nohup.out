@@ -1,0 +1,118 @@
+[ 181974]   WARN - rSkeletons.PyUserSkeletonsUtil - python-skeletons directory not found in paths: [/home/ebizieau/.IntelliJIdea13/config/python-skeletons, /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/python-skeletons] 
+[ 211036]   WARN - rSkeletons.PyUserSkeletonsUtil - python-skeletons directory not found in paths: [/home/ebizieau/.IntelliJIdea13/config/python-skeletons, /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/python-skeletons] 
+[11662912]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 0 
+[ 193417]   WARN - rSkeletons.PyUserSkeletonsUtil - python-skeletons directory not found in paths: [/home/ebizieau/.IntelliJIdea13/config/python-skeletons, /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/python-skeletons] 
+[19495879]   WARN - ution.process.OSProcessHandler - Cannot kill process tree. Trying to destroy process using Java API. Cmdline:
+/home/ebizieau/workspace/virtualenvs/exercism/bin/python /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/pydev/pydevd.py --multiproc --client 127.0.0.1 --port 56066 --file /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/pycharm/utrunner.py /home/ebizieau/workspace/exercism/python/meetup/meetup_test.py::MeetupTest::test_first_tuesday_of_may_2013 true 
+[19524731]   WARN - ution.process.OSProcessHandler - Cannot kill process tree. Trying to destroy process using Java API. Cmdline:
+/home/ebizieau/workspace/virtualenvs/exercism/bin/python /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/pydev/pydevd.py --multiproc --client 127.0.0.1 --port 33639 --file /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/pycharm/utrunner.py /home/ebizieau/workspace/exercism/python/meetup/meetup_test.py::MeetupTest::test_first_tuesday_of_may_2013 true 
+[19801964]   WARN - ution.process.OSProcessHandler - Cannot kill process tree. Trying to destroy process using Java API. Cmdline:
+/home/ebizieau/workspace/virtualenvs/exercism/bin/python /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/pydev/pydevd.py --multiproc --client 127.0.0.1 --port 54371 --file /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/pycharm/utrunner.py /home/ebizieau/workspace/exercism/python/meetup/meetup_test.py::MeetupTest::test_first_tuesday_of_may_2013 true 
+[19954885]   WARN - ution.process.OSProcessHandler - Cannot kill process tree. Trying to destroy process using Java API. Cmdline:
+/home/ebizieau/workspace/virtualenvs/exercism/bin/python /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/pydev/pydevd.py --multiproc --client 127.0.0.1 --port 50023 --file /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/pycharm/utrunner.py /home/ebizieau/workspace/exercism/python/meetup/meetup_test.py::MeetupTest::test_first_tuesday_of_may_2013 true 
+[29701220]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 0 
+[  84830]   WARN - rSkeletons.PyUserSkeletonsUtil - python-skeletons directory not found in paths: [/home/ebizieau/.IntelliJIdea13/config/python-skeletons, /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/python-skeletons] 
+[15796033]   WARN - ution.process.OSProcessHandler - Cannot kill process tree. Trying to destroy process using Java API. Cmdline:
+/home/ebizieau/workspace/virtualenvs/exercism/bin/python /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/pydev/pydevd.py --multiproc --client 127.0.0.1 --port 60027 --file /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/pycharm/utrunner.py /home/ebizieau/workspace/exercism/python/allergies/allergies_test.py::AllergiesTests::test_has_the_right_allergies true 
+[15850536]   WARN - ution.process.OSProcessHandler - Cannot kill process tree. Trying to destroy process using Java API. Cmdline:
+/home/ebizieau/workspace/virtualenvs/exercism/bin/python /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/pydev/pydevd.py --multiproc --client 127.0.0.1 --port 59269 --file /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/pycharm/utrunner.py /home/ebizieau/workspace/exercism/python/allergies/allergies_test.py::AllergiesTests::test_allergic_to_everything true 
+[15873945]   WARN - ution.process.OSProcessHandler - Cannot kill process tree. Trying to destroy process using Java API. Cmdline:
+/home/ebizieau/workspace/virtualenvs/exercism/bin/python /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/pydev/pydevd.py --multiproc --client 127.0.0.1 --port 43676 --file /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/pycharm/utrunner.py /home/ebizieau/workspace/exercism/python/allergies/allergies_test.py::AllergiesTests::test_allergic_to_everything true 
+[29865044]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 0 
+[29865163]  ERROR - til.concurrency.QueueProcessor - java.lang.InterruptedException 
+com.intellij.openapi.application.RuntimeInterruptedException: java.lang.InterruptedException
+	at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(ApplicationImpl.java:908)
+	at com.intellij.openapi.vcs.changes.VcsDirtyScopeManagerImpl.filePathsDirty(VcsDirtyScopeManagerImpl.java:161)
+	at com.intellij.openapi.vcs.changes.VcsDirtyScopeVfsListener$FileAndDirsCollector.a(VcsDirtyScopeVfsListener.java:251)
+	at com.intellij.openapi.vcs.changes.VcsDirtyScopeVfsListener$FileAndDirsCollector.access$300(VcsDirtyScopeVfsListener.java:196)
+	at com.intellij.openapi.vcs.changes.VcsDirtyScopeVfsListener$1.run(VcsDirtyScopeVfsListener.java:92)
+	at com.intellij.openapi.vcs.ZipperUpdater$1.run(ZipperUpdater.java:64)
+	at com.intellij.util.concurrency.QueueProcessor.runSafely(QueueProcessor.java:238)
+	at com.intellij.util.Alarm$Request$1.run(Alarm.java:327)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at com.intellij.util.concurrency.QueueProcessor$RunnableConsumer.consume(QueueProcessor.java:298)
+	at com.intellij.util.concurrency.QueueProcessor$RunnableConsumer.consume(QueueProcessor.java:295)
+	at com.intellij.util.concurrency.QueueProcessor$2$1.run(QueueProcessor.java:110)
+	at com.intellij.util.concurrency.QueueProcessor.runSafely(QueueProcessor.java:238)
+	at com.intellij.util.concurrency.QueueProcessor$2.consume(QueueProcessor.java:107)
+	at com.intellij.util.concurrency.QueueProcessor$2.consume(QueueProcessor.java:104)
+	at com.intellij.util.concurrency.QueueProcessor$3$1.run(QueueProcessor.java:215)
+	at com.intellij.util.concurrency.QueueProcessor.runSafely(QueueProcessor.java:238)
+	at com.intellij.util.concurrency.QueueProcessor$3.run(QueueProcessor.java:212)
+	at com.intellij.openapi.application.impl.ApplicationImpl$8.run(ApplicationImpl.java:419)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1$1.run(ApplicationImpl.java:149)
+Caused by: java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:979)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+	at java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(ApplicationImpl.java:905)
+	... 27 more
+[29865197]  ERROR - til.concurrency.QueueProcessor - IntelliJ IDEA 13.1.6  Build #IU-135.1306 
+[29865198]  ERROR - til.concurrency.QueueProcessor - JDK: 1.6.0_30 
+[29865198]  ERROR - til.concurrency.QueueProcessor - VM: Java HotSpot(TM) 64-Bit Server VM 
+[29865198]  ERROR - til.concurrency.QueueProcessor - Vendor: Sun Microsystems Inc. 
+[29865198]  ERROR - til.concurrency.QueueProcessor - OS: Linux 
+[ 165842]   WARN - rSkeletons.PyUserSkeletonsUtil - python-skeletons directory not found in paths: [/home/ebizieau/.IntelliJIdea13/config/python-skeletons, /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/python-skeletons] 
+[5586385]   WARN - tellij.ide.SystemHealthMonitor - Low disk space on a IntelliJ IDEA system directory partition 
+[5588427]   WARN - j.util.io.SafeFileOutputStream - No space left on device 
+java.io.IOException: No space left on device
+	at java.io.FileOutputStream.writeBytes(Native Method)
+	at java.io.FileOutputStream.write(FileOutputStream.java:282)
+	at com.intellij.util.io.SafeFileOutputStream.write(SafeFileOutputStream.java:80)
+	at java.io.BufferedOutputStream.write(BufferedOutputStream.java:105)
+	at com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl$5.close(PersistentFSImpl.java:638)
+	at com.intellij.openapi.vfs.VirtualFile.setBinaryContent(VirtualFile.java:562)
+	at com.intellij.openapi.components.impl.stores.StorageUtil.save(StorageUtil.java:133)
+	at com.intellij.openapi.components.impl.stores.FileBasedStorage$FileSaveSession.doSave(FileBasedStorage.java:175)
+	at com.intellij.openapi.components.impl.stores.XmlElementStorage$MySaveSession.a(XmlElementStorage.java:404)
+	at com.intellij.openapi.components.impl.stores.XmlElementStorage$MySaveSession.save(XmlElementStorage.java:397)
+	at com.intellij.openapi.components.impl.stores.CompoundSaveSession.save(CompoundSaveSession.java:49)
+	at com.intellij.openapi.components.impl.stores.StateStorageManagerImpl$MySaveSession.save(StateStorageManagerImpl.java:456)
+	at com.intellij.openapi.components.impl.stores.ComponentStoreImpl$SaveSessionImpl.save(ComponentStoreImpl.java:403)
+	at com.intellij.openapi.components.impl.stores.ProjectStoreImpl$ProjectSaveSession.save(ProjectStoreImpl.java:514)
+	at com.intellij.openapi.components.impl.stores.StoreUtil.doSave(StoreUtil.java:31)
+	at com.intellij.openapi.project.impl.ProjectImpl.save(ProjectImpl.java:354)
+	at com.intellij.ide.SaveAndSyncHandlerImpl.saveProjectsAndDocuments(SaveAndSyncHandlerImpl.java:149)
+	at com.intellij.ide.SaveAndSyncHandlerImpl$3.onFrameDeactivated(SaveAndSyncHandlerImpl.java:103)
+	at com.intellij.ide.FrameStateManagerImpl.a(FrameStateManagerImpl.java:104)
+	at com.intellij.ide.FrameStateManagerImpl.access$500(FrameStateManagerImpl.java:34)
+	at com.intellij.ide.FrameStateManagerImpl$2$1.run(FrameStateManagerImpl.java:74)
+	at com.intellij.util.concurrency.QueueProcessor.runSafely(QueueProcessor.java:238)
+	at com.intellij.util.Alarm$Request$1.run(Alarm.java:327)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:319)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:209)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:646)
+	at java.awt.EventQueue.access$000(EventQueue.java:84)
+	at java.awt.EventQueue$1.run(EventQueue.java:607)
+	at java.awt.EventQueue$1.run(EventQueue.java:605)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:87)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:616)
+	at com.intellij.ide.IdeEventQueue.e(IdeEventQueue.java:697)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:524)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:335)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:269)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:184)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:174)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:169)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:122)
+log4j:ERROR Failed to flush writer,
+java.io.IOException: No space left on device
+	at java.io.FileOutputStream.writeBytes(Native Method)
+	at java.io.FileOutputStream.write(FileOutputStream.java:28	at java.io.FileOutputStream.write(FileOutputStream.java:282)
+	at sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:202)
+
+
+[5602587]   WARN - tellij.ide.SystemHealthMonitor - Low disk space on a IntelliJ IDEA system directory partition 
+[21940124]   WARN - ution.process.OSProcessHandler - Cannot kill process tree. Trying to destroy process using Java API. Cmdline:
+/home/ebizieau/workspace/virtualenvs/extreme_startup/bin/python /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/pydev/pydevd.py --multiproc --client 127.0.0.1 --port 51208 --file /home/ebizieau/.IntelliJIdea13/config/plugins/python/helpers/pycharm/utrunner.py /home/ebizieau/workspace/extreme_startup_server/questions_test.py::QuestionsTest::test_square_and_cube true 
+[29440621]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 0 
